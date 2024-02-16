@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <h5 align="left">Testing:</h5>
 
-![selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest) ![puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![junit](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+![selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest) ![junit](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 <h5 align="left">Other:</h5>
 
