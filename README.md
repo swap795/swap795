@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Programming Languages:</h3>
 <img src="https://img.shields.io/badge/java-badge?style=for-the-badge&logo=java&labelColor=white&color=red" />
+<img src="https://img.shields.io/badge/js-badge?style=for-the-badge&logo=js&labelColor=white&color=yellow" />
 
 <h3 align="left">Frontend Development:</h3>
 <h3 align="left">Backend Development:</h3>
