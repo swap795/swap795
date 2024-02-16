@@ -20,33 +20,42 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/swap795](https://github.com/swap795)
 
-- 📫 How to reach me **https://www.linkedin.com/in/swapnilthapa95/**
+- 📫 How to reach me **thapaswapnil08@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swapnilthapa95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnilthapa95" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
-[![Static Badge](https://img.shields.io/badge/js-badge?style=for-the-badge&logo=javascript&label=JavaScript)]
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<br>
+<h5 style="margin-top: 40px;" align="left">Programming Languages:</h5>
 
-<h3 align="left">Frontend Development:</h3>
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<h3 align="left">Backend Development:</h3>
-<h3 align="left">Backend as a Service (BaaS):</h3>
-<h3 align="left">Database:</h3>
-<h3 align="left">Devops:</h3>
-<h3 align="left">Testing:</h3>
-<h3 align="left">Other:</h3>
-<!-- 
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![nodejs](https://img.shields.io/badge/nodejs-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<h5 align="left">Frontend/Backend Frameworks:</h5>
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![sass](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&color=black) ![reactjs](https://img.shields.io/badge/Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux)
+
+![express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express) ![nextjs](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextdotjs) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+<h5 align="left">Database:</h5>
+
+![mongodb](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&color=%23317132) ![mysql](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) ![mssql](https://img.shields.io/badge/ms%20sql-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+<h5 align="left">Devops:</h5>
+
+![jenkins](https://img.shields.io/badge/jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![aws](https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazonaws) ![azure](https://img.shields.io/badge/azure-%230078D7?style=for-the-badge&logo=azure%20devops) ![githubactions](https://img.shields.io/badge/github%20actions-%23181717?style=for-the-badge&logo=github)
+
+<h5 align="left">Testing:</h5>
+
+![selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest) ![puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![junit](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+<h5 align="left">Other:</h5>
+
+![postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&color=black)
+
+<!--
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
