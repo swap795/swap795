@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swap795&label=Profile%20views&color=0e75b6&style=flat" alt="swap795" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/swap795](https://github.com/swap795)
-
+<!--
 - 📫 How to reach me **thapaswapnil08@gmail.com**
-
+--> 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
